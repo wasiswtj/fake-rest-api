@@ -1,36 +1,36 @@
 {
-	"responseCode":"00",
-	"responseMessage":"Request Success",
-	"responseData":{
-		"requestData":[
-			{
-				"transactionData":[
-					{
-						"transactionId":"BJxEcY1UCB",
-						"cardType":"503",
-						"transactionDate":1576515600000,
-						"authCode":"003520",
-						"installmentData":"N",
-						"billAmount":13300,
-						"origCurrAmount":13300,
-						"trxDesc":"MCDONALDS DELIVERY JAKARTA UTARAID",
-						"currencyCode":"IDR",
-						"trxIndicator":"DR"
-					},
-					{
-						"transactionId":"BJxEcY1UCE",
-						"cardType":"503",
-						"transactionDate":1576515600001,
-						"authCode":"003521",
-						"installmentData":"N",
-						"billAmount":33000,
-						"origCurrAmount":33000,
-						"trxDesc":"MCDONALDS DELIVERY JAKARTA UTARAID",
-						"currencyCode":"IDR",
-						"trxIndicator":"DR"
-					}
-				]
-			}
-		]
-	}
+  "responseCode":"00",
+  "responseMessage":"Request Success",
+  "responseData":{
+    "requestData":[
+      {
+        "transactionData":[
+          {
+            "transactionId":"BJxEcY1UCB",
+            "cardType":"503",
+            "transactionDate":1576515600000,
+            "authCode":"003520",
+            "installmentData":"N",
+            "billAmount":13300,
+            "origCurrAmount":13300,
+            "trxDesc":"MCDONALDS DELIVERY JAKARTA UTARAID",
+            "currencyCode":"IDR",
+            "trxIndicator":"DR"
+          },
+          {
+            "transactionId":"BJxEcY1UCE",
+            "cardType":"503",
+            "transactionDate":1576515600001,
+            "authCode":"003521",
+            "installmentData":"N",
+            "billAmount":33000,
+            "origCurrAmount":33000,
+            "trxDesc":"MCDONALDS DELIVERY JAKARTA UTARAID",
+            "currencyCode":"IDR",
+            "trxIndicator":"DR"
+          }
+        ]
+      }
+    ]
+  }
 }
